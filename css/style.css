@@ -1,7 +1,4 @@
-header {
-    background : rgba(52, 116, 84, 0.582)
-}
-
-p{
-    color:red 
+body {
+    background : red;
+    margin: 100px;
 }
